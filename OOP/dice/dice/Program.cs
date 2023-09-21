@@ -58,7 +58,7 @@
             int result = rnd.Next(1, Sides);
             return result;
 
-        }
+        }        
 
     }
     
